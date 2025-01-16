@@ -1,1 +1,5 @@
 *{ margin: 0; padding: 0; border box-sizing: border;}
+
+.navbar-brand img{ width: 120px;}
+
+.carousel img{ height: 800px; object-fit: cover;}
