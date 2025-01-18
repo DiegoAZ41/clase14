@@ -1,5 +1,21 @@
 *{ margin: 0; padding: 0; border box-sizing: border;}
 
-.navbar-brand img{ width: 120px;}
+.navbar-brand img{width: 200px;}
+
+.bg-propio{background-color: rgb(0, 0, 0);}
 
 .carousel img{ height: 800px; object-fit: cover;}
+
+.card img{ height: 200px; object-fit: cover;}
+
+.card-text{ display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: auto;
+    text-overflow: ellipse;
+  color: aliceblue;}
+
+.card-title{color: aliceblue;}
+
+.card{background-image: url(https://png.pngtree.com/background/20230520/original/pngtree-abstract-black-background-picture-image_2679677.jpg);}
+.propio img{width: 350px;}
